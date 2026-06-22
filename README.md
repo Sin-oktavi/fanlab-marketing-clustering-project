@@ -1,4 +1,3 @@
-# fanlab-marketing-clustering-project
 # FanLab Marketing Clustering Project
 
 ## Overview
