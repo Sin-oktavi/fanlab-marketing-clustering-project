@@ -1,4 +1,5 @@
 # FanLab Marketing Clustering Project
+Marketing data clustering project for FanLab using K-Means to segment streamers and generate data-driven strategy recommendations.
 
 ## Overview
 This project focuses on analyzing livestream creator performance data for FanLab using K-Means Clustering to identify distinct streamer segments based on audience engagement, loyalty, community growth, and livestream performance. The analysis was conducted as part of a marketing data analytics final project with the goal of transforming raw creator data into actionable business and marketing strategies.
